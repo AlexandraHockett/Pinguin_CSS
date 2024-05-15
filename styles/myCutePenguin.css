@@ -264,7 +264,7 @@ h3 {
 
 .ground {
   width: 100vw;
-  height: 200px;
+  height: 100%;
   background: linear-gradient(90deg, rgb(88, 175, 236), rgb(182, 255, 255));
   z-index: 3;
   position: absolute;
@@ -321,8 +321,8 @@ footer {
 
   .video {
     font-size: 12px;
-    width: 310px;
-    height: 200px;
+    width: 70%;
+    height: 50%;
   }
 
   .aboutMe {
