@@ -311,6 +311,10 @@ footer {
 }
 
 @media (max-width: 800px) {
+  body {
+    overflow: hidden;
+  }
+
   h1 {
     font-size: 30px;
   }
